@@ -1,0 +1,13 @@
+numpy==1.16.0
+h5py==2.10.0
+opencv-python
+keras
+keras-preprocessing
+tensorflow
+pandas
+matplotlib
+plotly
+jupyter
+notebook
+voila==0.1.23
+voila-hover
